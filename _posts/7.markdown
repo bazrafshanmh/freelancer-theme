@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 7
+modal-id: 1
 date: 2025-07-15
-img: negaricon.png
+img: negaricon.jpg
 alt: image-alt
 project-date: April 2025
 client: Start Bootstrap
